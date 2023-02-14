@@ -1,0 +1,24 @@
+## Sistema desarrollado con dotnet CLI x64 
+## Api Rest en blanco
+- logger incluido
+- conextor mysql y sqlserver
+
+## Version Net core 7
+dotnet core 7.0.101
+
+## Importante
+el paquete pomelo mysql esta en un version beta 7.0 para la version net core 7 (actualizar a la version estandar cuando este disponible )
+
+## Desarrollo Dotnet net7.0 (opcional) 
+dotnet restore
+dotnet watch run 
+
+## Deploy dotnet --arch aquitectura  --output carpeta de destino
+dotnet clean
+dotnet build
+
+## en windos en cmd
+dotnet publish --arch x64 --output c:\inetpub\wwwroot\netCoreFront
+## en windos en gitbash
+
+dotnet publish --arch x64 --output /c/inetpub/wwwroot/netCoreFront

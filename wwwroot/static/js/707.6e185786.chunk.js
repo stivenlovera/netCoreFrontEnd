@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcomisionesweb=self.webpackChunkcomisionesweb||[]).push([[707],{9707:function(e,n,i){i.r(n);i(2791);var s=i(184);n.default=function(){return(0,s.jsx)("div",{children:(0,s.jsx)("h1",{children:"Sistema en mantenimento"})})}}}]);
+//# sourceMappingURL=707.6e185786.chunk.js.map

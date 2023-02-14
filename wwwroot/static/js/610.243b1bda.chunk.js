@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcomisionesweb=self.webpackChunkcomisionesweb||[]).push([[610],{4610:function(e,s,n){n.r(s);var c=n(184);s.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("h5",{children:"Ascensos"})})}}}]);
+//# sourceMappingURL=610.243b1bda.chunk.js.map
